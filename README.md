@@ -46,9 +46,8 @@ curl -X POST \
 
 #### Apollo Link Examples
 
-- [HTTP Link](https://codesandbox.io/s/koj24j5l07)
-- [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
 - [Apollo Client](https://codesandbox.io/s/adoring-architecture-uw413f?file=/src/index.js)
+- [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
 
 ### Apollo & React
 
