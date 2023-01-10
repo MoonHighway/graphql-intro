@@ -48,15 +48,12 @@ curl -X POST \
 
 - [HTTP Link](https://codesandbox.io/s/koj24j5l07)
 - [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
-- [Terminating Link: Start](https://codesandbox.io/s/objective-dawn-36rzq)
-- [Terminating Link: Finish](https://codesandbox.io/s/mutable-smoke-qkvgc)
-- [Apollo Client](https://codesandbox.io/s/oo3z008kzy?file=/src/index.js)
+- [Apollo Client](https://codesandbox.io/s/oo3z008kzy?file=/src/index.js](https://codesandbox.io/s/adoring-architecture-uw413f?file=/src/index.js)
 
 ### Apollo & React
 
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 - [Snowtooth UI Finished Files](https://github.com/graphqlworkshop/snowtooth-ui/tree/complete)
-- [Lab](https://slides.com/moonhighway/client-lab/)
 
 ### Caching
 
@@ -66,3 +63,4 @@ curl -X POST \
 
 - [Defer and Stream Slides](https://slides.com/moonhighway/defer-stream)
 - [Defer in Apollo Client](https://www.apollographql.com/docs/react/data/defer/)
+- [Defer Demo](https://studio.apollographql.com/public/hack-the-e-commerce/explorer?variant=main)
