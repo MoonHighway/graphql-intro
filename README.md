@@ -16,11 +16,10 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 ### GraphQL Query Language
 
 - [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
+- [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [Apollo Studio Link](https://studio.apollographql.com/sandbox/explorer)
 - [Pet Library Playground](https://pet-library.moonhighway.com)
-- [Moon Highway Vote Playground](http://vote.moonhighway.com)
 - [Snowtooth Playground](https://snowtooth.moonhighway.com)
-- [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
 ### Schema Slides
@@ -66,6 +65,4 @@ curl -X POST \
 ### Defer and Stream
 
 - [Defer and Stream Slides](https://slides.com/moonhighway/defer-stream)
-- [GraphQL Bleeding Edge Playground](https://github.com/n1ru4l/graphql-bleeding-edge-playground)
-- [express-graphql, defer-stream branch](https://github.com/graphql/express-graphql/tree/defer-stream)
-- [graphql-js, defer-stream branch](https://github.com/graphql/graphql-js/tree/defer-stream)
+- [Defer in Apollo Client](https://www.apollographql.com/docs/react/data/defer/)
