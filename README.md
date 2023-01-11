@@ -26,6 +26,15 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 
 * [Schema Slides](https://slides.com/moonhighway/schema-definition-language)
 * [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
+- [Starting Repo](https://github.com/MoonHighway/pet-library-schema)
+- [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
+- [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
+
+_Don't want to work with the repo or code editor? Use the [Schema Project in CodeSandbox](https://codesandbox.io/s/github/moonhighway/pet-library-schema)_
+
+### Query Language Continued...
+
+- Funded Pet Library [GraphQL Playground](https://funded-pet-library.moonhighway.com) | [Repo](https://github.com/moonhighway/pet-library)
 
 ### Apollo Client
 
@@ -63,3 +72,10 @@ curl -X POST \
 - [Defer and Stream Slides](https://slides.com/moonhighway/defer-stream)
 - [Defer in Apollo Client](https://www.apollographql.com/docs/react/data/defer/)
 - [Defer Demo](https://studio.apollographql.com/public/hack-the-e-commerce/explorer?variant=main)
+
+### Federation
+
+## Federated Schemas
+
+- [Pet Schema](https://github.com/MoonHighway/federated-mock-pets-sample)
+- [Customer Schema](https://github.com/MoonHighway/federated-customers-mock-sample)
