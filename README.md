@@ -36,7 +36,7 @@ _Don't want to work with the repo or code editor? Use the [Schema Project in Cod
 
 - Funded Pet Library [GraphQL Playground](https://funded-pet-library.moonhighway.com) | [Repo](https://github.com/moonhighway/pet-library)
 
-### Apollo Client
+### GraphQL Clients
 
 #### Simple Requests
 
@@ -63,6 +63,13 @@ curl -X POST \
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 - [Snowtooth UI Finished Files](https://github.com/graphqlworkshop/snowtooth-ui/tree/complete)
 
+### Client Documentation
+
+- [Apollo Client Docs - React](https://www.apollographql.com/docs/react)
+- [Apollo Client Docs - iOS](https://www.apollographql.com/docs/ios)
+- [Apollo Client Docs - Kotlin](https://www.apollographql.com/docs/kotlin)
+- [Relay Docs](https://relay.dev/)
+
 ### Caching
 
 - [Caching, Client Side Schema](https://github.com/eveporcello/pet-library-client)
@@ -75,7 +82,6 @@ curl -X POST \
 
 ### Federation
 
-## Federated Schemas
-
+- [Federation](https://www.apollographql.com/docs/federation/)
 - [Pet Schema](https://github.com/MoonHighway/federated-mock-pets-sample)
 - [Customer Schema](https://github.com/MoonHighway/federated-customers-mock-sample)
