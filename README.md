@@ -13,7 +13,7 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 - **Moon Highway Training**: [Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
 
 
-### GraphQL Query Language
+## GraphQL Query Language
 
 - [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
 - [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)
@@ -22,13 +22,13 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 - [Snowtooth Playground](https://snowtooth.moonhighway.com)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
-### Schema Slides
+## GraphQL Schemas
 
 * [Schema Slides](https://slides.com/moonhighway/schema-definition-language)
 * [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
-- [Starting Repo](https://github.com/MoonHighway/pet-library-schema)
-- [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
-- [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
+* [Starting Repo](https://github.com/MoonHighway/pet-library-schema)
+*  [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
+* [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
 
 _Don't want to work with the repo or code editor? Use the [Schema Project in CodeSandbox](https://codesandbox.io/s/github/moonhighway/pet-library-schema)_
 
@@ -36,9 +36,9 @@ _Don't want to work with the repo or code editor? Use the [Schema Project in Cod
 
 - Funded Pet Library [GraphQL Playground](https://funded-pet-library.moonhighway.com) | [Repo](https://github.com/moonhighway/pet-library)
 
-### GraphQL Clients
+## GraphQL Clients
 
-#### Simple Requests
+### Simple Requests
 
 - curl Request
 
@@ -53,7 +53,7 @@ curl -X POST \
 - [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 
-#### Apollo Link Examples
+### Apollo Link - Creating a Network Layer
 
 - [Apollo Client](https://codesandbox.io/s/adoring-architecture-uw413f?file=/src/index.js)
 - [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
