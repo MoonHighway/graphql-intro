@@ -12,27 +12,31 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
 - **Moon Highway Training**: [Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
 
-
 ## GraphQL Query Language
 
 - [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
 - [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)
-- [Apollo Studio Link](https://studio.apollographql.com/sandbox/explorer)
-- [Pet Library Playground](https://pet-library.moonhighway.com)
-- [Funded Pet Library](https://funded-pet-library.moonhighway.com) 
+- [Pet Library](https://pet-library.moonhighway.com)
+- [Funded Pet Library](https://funded-pet-library.moonhighway.com)
 - [Snowtooth Playground](https://snowtooth.moonhighway.com)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
 ## GraphQL Schemas
 
-* [Schema Slides](https://slides.com/moonhighway/schema-definition-language)
-* [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
-* [Starting Repo](https://github.com/MoonHighway/pet-library-schema)
-* [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
-* [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
-* [Unions & Interfaces](https://slides.com/moonhighway/apollo-schema-design-advanced)
+- [Schema Slides](https://slides.com/moonhighway/schema-definition-language)
+- [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
+- [Starting Repo](https://github.com/MoonHighway/pet-library-schema)
+- [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
+- [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
+- [Unions & Interfaces](https://slides.com/moonhighway/apollo-schema-design-advanced)
 
 _Don't want to work with the repo or code editor? Use the [Schema Project in CodeSandbox](https://codesandbox.io/s/github/moonhighway/pet-library-schema)_
+
+### Federation
+
+- [Federation](https://www.apollographql.com/docs/federation/)
+- [Pet Schema](https://github.com/MoonHighway/federated-mock-pets-sample)
+- [Customer Schema](https://github.com/MoonHighway/federated-customers-mock-sample)
 
 ## GraphQL Clients
 
@@ -66,6 +70,7 @@ curl -X POST \
 - [Apollo Client Docs - React](https://www.apollographql.com/docs/react)
 - [Apollo Client Docs - iOS](https://www.apollographql.com/docs/ios)
 - [Apollo Client Docs - Kotlin](https://www.apollographql.com/docs/kotlin)
+- [Persisted Queries](https://www.apollographql.com/docs/apollo-server/performance/apq/)
 - [Relay Docs](https://relay.dev/)
 - [Relay Connection Spec](https://relay.dev/graphql/connections.htm)
 
@@ -79,9 +84,3 @@ curl -X POST \
 - [Defer and Stream Slides](https://slides.com/moonhighway/defer-stream)
 - [Defer in Apollo Client](https://www.apollographql.com/docs/react/data/defer/)
 - [Defer Demo](https://studio.apollographql.com/public/hack-the-e-commerce/explorer?variant=main)
-
-### Federation
-
-- [Federation](https://www.apollographql.com/docs/federation/)
-- [Pet Schema](https://github.com/MoonHighway/federated-mock-pets-sample)
-- [Customer Schema](https://github.com/MoonHighway/federated-customers-mock-sample)
