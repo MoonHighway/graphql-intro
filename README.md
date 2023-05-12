@@ -17,6 +17,7 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 - [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
 - [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [Pet Library](https://pet-library.moonhighway.com)
+- [Vote Playground](https://host-election.fly.dev/)
 - [Funded Pet Library](https://funded-pet-library.moonhighway.com)
 - [Snowtooth Playground](https://snowtooth.moonhighway.com)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
